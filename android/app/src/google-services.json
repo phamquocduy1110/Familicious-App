@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906395544895",
+    "project_id": "famlicious-app",
+    "storage_bucket": "famlicious-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906395544895:android:b6702a872ede1caeecf78a",
+        "android_client_info": {
+          "package_name": "dev.etornam.famlicious_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906395544895-5celb4vd0agrul7sl535t7avh0pc3qgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkNrOB36mHlu5KquZNoMipOTLwxHZEKOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906395544895-5celb4vd0agrul7sl535t7avh0pc3qgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
